@@ -44,32 +44,29 @@ In this course, we will discuss recent advances in generative AI for biomedicine
 
 ### Grading Policy
 
-**Groups**: All activities of this course, except your attendance, will be performed in groups of 3 students, in a total of 15 groups. **By Jan 30**, most groups should submit their memberships (**exactly 3**) and topic preference (see 5 general topics in **Structure**). For students who do not find a group, we will assign groups according to their topic preference.
+**Groups**: All activities of this course, except your attendance, will be performed in groups of 3 students, in a total of 15 groups. **By Feb 3**, most groups should submit their memberships (**exactly 3**) and topic preference (see 5 general topics in **Structure**). For students who do not find a group, we will assign groups according to their topic preference.
 
 | **Component** | **Weight** | **Breakdown** |
 | --- | --- | --- |
 | Pre-class Reading | 10% | 10 pt 15 lectures |
-| In-class Discussion | 30% | - 10% Presenter - 10% Companion Author - 10% Reviewer |
-| Hands-on Experiments * 2 | 20% | - 10% Each Report |
+| In-class Discussion | 30% | - 10% Presentation - 10% Rebuttal - 10% Review |
+| Hands-on Experiments | 20% | - 10% Scripts & Generation Results - 10% Report |
 | Final Project | 40% | - 5% Proposal - 15% Final Presentation - 20% Final Report |
 
 **Pre-class Reading**
 
-- Group Assignment: Each paper-reading lecture will have several required readings and optional related readings.  Each group should read at least one of the papers and submit at least 1 insightful question or idea related to the paper you read on Canvas **before the lecture**.
+- Group Assignment: Each paper-reading lecture will have several required readings and optional related readings.  Each group should read at least one of the papers and submit at least 1 insightful question or idea related to the paper you read here https://docs.google.com/spreadsheets/d/1Q-wPi2Ezbv0QJe8hN2tBNC15WmkPaquhuJqkT4p5bWk/edit?usp=sharing before the lecture.
 
 **In-class Discussion**
 
-- In each paper-reading lecture, three groups will be signed up as the main leaders of the discussion, with each group playing one of the 3 roles: **presenters, authors**, or **reviewers**. These 3 groups are required to submit assignments (see below). Other groups are encouraged to participate in class discussions. Throughout the semester, each group needs to sign up for each one of the roles once, totaling participation in 3 different subtopics.
-- Group Assignment for designated presenters, authors, and reviewers:
-    - For presenter: submit slides (at least 24 pages) for all required readings **before the lecture,** and present the papers **during the class (45 min presentation).**
-    - For companion authors:
-        - submit a summary of the required readings **before the lecture**
-        - submit a rebuttal **within 6 days after the reviewers' feedback is available**
+- In each paper-reading lecture, 2 groups will be signed up as the main leaders of the discussion, with each group playing one of the 2 roles: **presenters** or **reviewers**. These 2 groups are required to submit assignments (see below). Other groups are encouraged to participate in class discussions. Throughout the semester, each group needs to sign up for each one of the roles once, totaling participation in 2 different subtopics.
+- Group Assignment for designated presenters and reviewers:
+    - For presenter: submit slides (at least 24 pages) for all required readings **before the lecture,** and present the papers **during the class (45 min presentation);** submit a rebuttal **within 6 days after the lecture**
     - For reviewers: submit academic reviews about required readings by **EOD of the lecture**
 
 **Hands-on Experiments**
 
-We’ll release 2-4 benchmark challenges during the semester. Each group should participate in at least two challenges. For each selected challenge, pick 1 method from existing literature and use its codebase to generate results and evaluation metrics, and finish a short report like the experiment section in a paper. The report should cover experiment settings and result analysis. Each group should submit 2 experiment reports ** see submission ddls in the syllabus.**
+We’ll release 1-3 benchmark challenges during the semester. Each group should choose 1 challenge and use its codebase to generate results and evaluation metrics, and finish a short report like the experiment section in a paper. The report should cover experiment settings and results analysis. Each group should submit the experiment reports 2 weeks **before the final presentation (Apr 23).**
 
 **Final Project**
 
@@ -81,52 +78,50 @@ Each group should complete a final project in one of the following types:
 
 Each group should submit a proposal **by Mar 5 (1 week before mid-term)**, and a final report **by May 14 (1 week after the final presentation)**
 
-### Tentative Schedule and Reading List
+### Tentative Schedule
 
 Note: This is an evolving list. For each topic, the presenter should cover 2-3 required papers in their presentation.
 
-| **Date** | **Topic** | **Presenter** | **Companion** | **Reviewer** | **Note** |
-| --- | --- | --- | --- | --- | --- |
-|  | **Course Introduction** |  |  |  |  |
-| Jan 22 | Intro + Biology101 | Prof. Liu |  |  |  |
-| Jan 27 | Diffusion |  |  |  |  |
-| Jan 29 | Flow Models |  |  |  |  |
-| Feb 3 | Latent diffusion, VAE  |  |  |  |  |
-| Feb 5 | Geometric DL & Equivariance |  |  |  |  |
-| Feb 10 | Seq Model & Discrete Generation |  |  |  |  |
-| Feb 12 | No Lecture / Brainstorm session for project proposal, prepare presentation |  |  |  |  |
-|  | **Paper-reading lectures begin** |  |  |  |  |
-| Feb 17 |  |  |  |  |  |
-| Feb 19 |  |  |  |  |  |
-| Feb 24 |  |  |  |  |  |
-| Feb 26 |  |  |  |  |  |
-| Mar 3 |  |  |  |  |  |
-| Mar 5 |  |  |  |  | Proposal Due |
-|  | **Mid-term Presentation & Hands-on challenge introduction** |  |  |  |  |
-| Mar 10 |  |  |  |  |  |
-| Mar 12 |  |  |  |  |  |
-|  | **Spring Break** |  |  |  |  |
-| Mar 17 | No Lecture |  |  |  |  |
-| Mar 19 | No Lecture |  |  |  |  |
-|  | **Paper-reading Lectures** |  |  |  |  |
-| Mar 24 |  |  |  |  | DLL for challenge 1 submission |
-| Mar 26 |  |  |  |  |  |
-| Mar 31 |  |  |  |  |  |
-| Apr 2 |  |  |  |  |  |
-| Apr 7 |  |  |  |  |  |
-| Apr 9 |  |  |  |  |  |
-| Apr 14 |  |  |  |  |  |
-| Apr 16 |  |  |  |  |  |
-| Apr 21 |  |  |  |  |  |
-| Apr 23 |  |  |  |  | Remote, DLL for challenge 2 submission |
-| Apr 28 | No Lecture / Work on Final Presentation |  |  |  |  |
-| Apr 30 | No Lecture / Work on Final Presentation |  |  |  |  |
-|  | **Final Presentation** |  |  |  |  |
-| May 5 |  |  |  |  |  |
-| May 7 |  |  |  |  |  |
-| May 14 |  |  |  |  | Final Report due |
-
-### 
+| **Date** | **Topic** | **Presenter** | **Reviewer** | **Note** |
+| --- | --- | --- | --- | --- |
+|  | **Course Introduction** |  |  |  |
+| Jan 22 | Intro + Biology101 | Prof. Liu |  |  |
+| Jan 27 | Diffusion |  |  |  |
+| Jan 29 | Flow Models |  |  |  |
+| Feb 3 | VAE  |  |  | Group Membership & Topic Preference Due |
+| Feb 5 | Geometric DL & Equivariance |  |  |  |
+| Feb 10 | Seq Model & Discrete Generation |  |  |  |
+| Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
+|  | **Paper-reading lectures begin** |  |  |  |
+| Feb 17 |  |  |  |  |
+| Feb 19 |  |  |  |  |
+| Feb 24 |  |  |  |  |
+| Feb 26 |  |  |  |  |
+| Mar 3 |  |  |  |  |
+| Mar 5 |  |  |  | Proposal Due |
+|  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |
+| Mar 10 |  |  |  |  |
+| Mar 12 |  |  |  |  |
+|  | **Spring Break** |  |  |  |
+| Mar 17 | No Lecture |  |  |  |
+| Mar 19 | No Lecture |  |  |  |
+|  | **Paper-reading Lectures** |  |  |  |
+| Mar 24 |  |  |  |  |
+| Mar 26 |  |  |  |  |
+| Mar 31 |  |  |  |  |
+| Apr 2 |  |  |  |  |
+| Apr 7 |  |  |  |  |
+| Apr 9 |  |  |  |  |
+| Apr 14 |  |  |  |  |
+| Apr 16 |  |  |  |  |
+| Apr 21 |  |  |  |  |
+| Apr 23 |  |  |  | Remote, DLL for challenge submission |
+| Apr 28 | No Lecture / Work on Final Presentation |  |  |  |
+| Apr 30 | No Lecture / Work on Final Presentation |  |  |  |
+|  | **Final Presentation** |  |  |  |
+| May 5 |  |  |  |  |
+| May 7 |  |  |  |  |
+| May 14 |  |  |  | Final Report due |
 
 ### Guidelines
 
