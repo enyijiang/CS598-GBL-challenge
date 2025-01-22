@@ -14,7 +14,7 @@
 - For homework/report submission
 - For open discussion
 
-**Github**: https://github.com/gelab-uiuc/CS598-GBL
+**Github (Course website)**: https://github.com/gelab-uiuc/CS598-GBL
 
 - Covering most of the course information, including schedule and reading lists
 
@@ -22,11 +22,11 @@
 
 ### Course Description
 
-In this course, we will discuss recent advances in generative AI for biomedicine, with a special focus on language models, geometric-aware deep learning, and multimodal diffusion/flow matching on diverse data manifolds. We will also discuss foundational models for biomedicine and life sciences applications such as protein design, drug discovery, and understanding the functions and dynamics of complex biomolecular systems.
+In this course, we will discuss recent advances in generative AI for biomedicine, with a special focus on geometric-aware deep learning, multimodal diffusion/flow matching on diverse data manifolds, and language models. We will also discuss foundational models for biomedicine and life sciences applications such as protein design, drug discovery, and understanding the functions and dynamics of complex biomolecular systems.
 
 **Learning Objectives:** This course will introduce generative model basics, their application in biomedicines, and other impactful research works. At the end of this course, you will be able to:
 
-- Have a good overview and basic knowledge about biomedicines & life science
+- Have a good overview and basic knowledge of state-of-the-art generative models in biomedicines & life science
 - Familiar with the research process: proposal, presentation, paper writing, review & rebuttal, hands-on experiments
 - Have critical thinking and assessment of research papers
 
@@ -64,18 +64,18 @@ In this course, we will discuss recent advances in generative AI for biomedicine
     - For presenter: submit slides (at least 24 pages) for all required readings **before the lecture,** and present the papers **during the class (45 min presentation).**
     - For companion authors:
         - submit a summary of the required readings **before the lecture**
-        - submit a rebuttal **within 6 days after the lecture**
+        - submit a rebuttal **within 6 days after the reviewers' feedback is available**
     - For reviewers: submit academic reviews about required readings by **EOD of the lecture**
 
 **Hands-on Experiments**
 
-We’ll release 2-4 benchmark challenges during the semester. Each group should participate in at least two challenges. For each selected challenge, pick 1 method from existing literature and use its codebase to generate results and evaluation metrics, and finish a short report like the experiment section in a paper. The report should cover experiment settings and results analysis. Each group should submit 2 experiment reports **after Spring break and before the final presentation (DDL will announce later).**
+We’ll release 2-4 benchmark challenges during the semester. Each group should participate in at least two challenges. For each selected challenge, pick 1 method from existing literature and use its codebase to generate results and evaluation metrics, and finish a short report like the experiment section in a paper. The report should cover experiment settings and result analysis. Each group should submit 2 experiment reports ** see submission ddls in the syllabus.**
 
 **Final Project**
 
-Each group should complete a project from the 3 types:
+Each group should complete a final project in one of the following types:
 
-1. Literature survey on an advanced topic in generative AI for biomedicine
+1. Comprehensive literature survey on one advanced subtopic in generative AI for biomedicine (doesn't need to be one of the subtopics of the lecture, but should be related to the topics of the class).
 2. Benchmarking & dataset paper (opportunity to submit to Neurips Benchmark track)
 3. Open-ended research (opportunity to submit to Neurips main track)
 
@@ -91,10 +91,10 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Jan 22 | Intro + Biology101 | Prof. Liu |  |  |  |
 | Jan 27 | Diffusion |  |  |  |  |
 | Jan 29 | Flow Models |  |  |  |  |
-| Feb 3 | VAE  |  |  |  |  |
+| Feb 3 | Latent diffusion, VAE  |  |  |  |  |
 | Feb 5 | Geometric DL & Equivariance |  |  |  |  |
 | Feb 10 | Seq Model & Discrete Generation |  |  |  |  |
-| Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |  |
+| Feb 12 | No Lecture / Brainstorm session for project proposal, prepare presentation |  |  |  |  |
 |  | **Paper-reading lectures begin** |  |  |  |  |
 | Feb 17 |  |  |  |  |  |
 | Feb 19 |  |  |  |  |  |
@@ -102,7 +102,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 26 |  |  |  |  |  |
 | Mar 3 |  |  |  |  |  |
 | Mar 5 |  |  |  |  | Proposal Due |
-|  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |  |
+|  | **Mid-term Presentation & Hands-on challenge introduction** |  |  |  |  |
 | Mar 10 |  |  |  |  |  |
 | Mar 12 |  |  |  |  |  |
 |  | **Spring Break** |  |  |  |  |
