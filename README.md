@@ -78,6 +78,10 @@ Each group should complete a final project in one of the following types:
 
 Each group should submit a proposal **by Mar 5 (1 week before mid-term)**, and a final report **by May 14 (1 week after the final presentation)**
 
+**Late Day Policy**
+
+Students may request one 3-day extension in the semester for full credit. Otherwise, late submission within 3 days results in at most 80% of credits. Submission later than 3 days results in 0% of credits.
+
 ### Tentative Schedule
 
 Note: This is an evolving list. For each topic, the presenter should cover 2-3 required papers in their presentation.
