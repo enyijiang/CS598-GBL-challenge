@@ -2,7 +2,7 @@
 
 ### Course Console
 
-**Lectures**: 0216 Siebel Center for Computer Science, MW: 9:30 AM – 10:45 AM
+**Lectures**: 0220 Siebel Center for Computer Science, MW: 9:30 AM – 10:45 AM
 
 | **Member (NetID)** | **Role** | **Office Hours** |
 | --- | --- | --- |
