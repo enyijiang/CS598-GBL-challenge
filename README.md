@@ -147,6 +147,8 @@ Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image s
 
 #### Flow Models
 
+tutorial: https://neurips.cc/virtual/2024/tutorial/99531
+
 Rezende, Danilo, and Shakir Mohamed. "Variational inference with normalizing flows." International conference on machine learning. PMLR, 2015.
 
 Chen, Ricky TQ, et al. "Neural ordinary differential equations." Advances in neural information processing systems 31 (2018).
@@ -166,6 +168,8 @@ Campbell, Andrew, et al. "Generative Flows on Discrete State-Spaces: Enabling Mu
 #### Latent Diffusion / VAE
 
 Lilian’s blog https://lilianweng.github.io/posts/2018-08-12-vae/
+
+tutorial: https://nips.cc/virtual/2023/tutorial/73957
 
 Rombach, Robin, et al. "High-resolution image synthesis with latent diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.
 
