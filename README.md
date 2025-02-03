@@ -97,12 +97,14 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 10 | Seq Model & Discrete Generation |  |  |  |
 | Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
 |  | **Paper-reading lectures begin** |  |  |  |
-| Feb 17 |  |  |  |  |
-| Feb 19 |  |  |  |  |
-| Feb 24 |  |  |  |  |
-| Feb 26 |  |  |  |  |
-| Mar 3 |  |  |  |  |
-| Mar 5 |  |  |  | Proposal Due |
+|  | **Language Model in Biomedicine** |  |  |  |
+| Feb 17 | lecture 1: protein |  |  |  |
+| Feb 19 | lecture 2: protein & beyond |  |  |  |
+| Feb 24 | lecture 3: discrete generation |  |  |  |
+|  | **Molecule Generation** |  |  |  |
+| Feb 26 | lecture 4: 2d |  |  |  |
+| Mar 3 | lecture 5: 3d |  |  |  |
+| Mar 5 | lecture 6: 2d & 3d |  |  | Proposal Due |
 |  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |
 | Mar 10 |  |  |  |  |
 | Mar 12 |  |  |  |  |
@@ -110,15 +112,18 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 17 | No Lecture |  |  |  |
 | Mar 19 | No Lecture |  |  |  |
 |  | **Paper-reading Lectures** |  |  |  |
-| Mar 24 |  |  |  |  |
-| Mar 26 |  |  |  |  |
-| Mar 31 |  |  |  |  |
-| Apr 2 |  |  |  |  |
-| Apr 7 |  |  |  |  |
-| Apr 9 |  |  |  |  |
-| Apr 14 |  |  |  |  |
-| Apr 16 |  |  |  |  |
-| Apr 21 |  |  |  |  |
+|  | **Protein Generation** |  |  |  |
+| Mar 24 | lecture 7: folding and inverse folding |  |  |  |
+| Mar 26 | lecture 8: folding and inverse folding |  |  |  |
+| Mar 31 | lecture 9: folding and inverse folding |  |  |  |
+| Apr 2 | lecture 10: co-design |  |  |  |
+|  | **Complex-based Generation** |  |  |  |
+| Apr 7 | lecture 11: peptide design |  |  |  |
+| Apr 9 | lecture 12: structure-based drug design |  |  |  |
+| Apr 14 | lecture 13: docking |  |  |  |
+| Apr 16 | lecture 14: antibody design |  |  |  |
+|  | **RLHF/DPO/Guidance** |  |  |  |
+| Apr 21 | lecture 15 |  |  |  |
 | Apr 23 |  |  |  | Remote, DLL for challenge submission |
 | Apr 28 | No Lecture / Work on Final Presentation |  |  |  |
 | Apr 30 | No Lecture / Work on Final Presentation |  |  |  |
@@ -128,6 +133,16 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | May 14 |  |  |  | Final Report due |
 
 ### Reading List
+
+paper lists:
+
+https://github.com/AspirinCode/papers-for-molecular-design-using-DL 
+
+https://github.com/amorehead/awesome-molecular-generation 
+
+https://github.com/lmqfly/Geometry-Deep-Learning-for-Drug-Discovery?tab=readme-ov-file#molecular-design
+
+https://github.com/Peldom/papers_for_protein_design_using_DL?tab=readme-ov-file#2-model-based-design
 
 #### Diffusion
 
@@ -178,6 +193,138 @@ Kingma, Diederik P. "Auto-encoding variational bayes." arXiv preprint arXiv:1312
 Van Den Oord, Aaron, and Oriol Vinyals. "Neural discrete representation learning." Advances in neural information processing systems 30 (2017).
 
 Razavi, Ali, Aaron Van den Oord, and Oriol Vinyals. "Generating diverse high-fidelity images with vq-vae-2." Advances in neural information processing systems 32 (2019).
+
+#### Language model in biomedicine
+
+**lecture1**
+
+Lin, Zeming, et al. "Evolutionary-scale prediction of atomic-level protein structure with a language model." *Science* 379.6637 (2023): 1123-1130.
+
+Hayes, Thomas, et al. "Simulating 500 million years of evolution with a language model." *Science* (2025): eads0018.
+
+ESM3-C: https://www.evolutionaryscale.ai/blog/esm-cambrian
+
+**lecture2**
+
+Nguyen, Eric, et al. "Sequence modeling and design from molecular to genome scale with Evo." *Science* 386.6723 (2024): eado9336.
+
+Madani, Ali, et al. "Large language models generate functional protein sequences across diverse families." *Nature Biotechnology* 41.8 (2023): 1099-1106.
+
+Notin, Pascal, et al. "Proteinnpt: Improving protein property prediction and design with non-parametric transformers." *Advances in Neural Information Processing Systems* 36 (2023): 33529-33563.
+
+optional:
+
+Shuai, Richard W., Jeffrey A. Ruffolo, and Jeffrey J. Gray. "IgLM: Infilling language modeling for antibody sequence design." *Cell Systems* 14.11 (2023): 979-989.
+
+Notin, Pascal, et al. "TranceptEVE: Combining Family-specific and Family-agnostic Models of Protein Sequences for Improved Fitness Prediction." *NeurIPS 2022 Workshop on Learning Meaningful Representations of Life*.
+
+**lecture3**
+
+Cheng, Chaoran, et al. "Categorical Flow Matching on Statistical Manifolds." *NeuRIPS* (2024).
+
+Wang, Xinyou, et al. "Dplm-2: A multimodal diffusion protein language model." *arXiv preprint arXiv:2410.13782* (2024).
+
+Alamdari, Sarah, et al. "Protein generation with evolutionary diffusion: sequence is all you need." *NeurIPS 2023 Generative AI and Biology (GenBio) Workshop*.
+
+optional:
+
+Avdeyev, Pavel, et al. "Dirichlet diffusion score model for biological sequence generation." *International Conference on Machine Learning*. PMLR, 2023.
+
+Stark, Hannes, et al. "Dirichlet Flow Matching with Applications to DNA Sequence Design." *ICLR 2024 Workshop on Generative and Experimental Perspectives for Biomolecular Design*.
+
+Bhattacharya, Debjyoti, et al. "Large language models as molecular design engines." *Journal of Chemical Information and Modeling* 64.18 (2024): 7086-7096.
+
+#### Molecule Generation
+
+**lecture4**
+
+Eijkelboom, Floor, et al. "Variational Flow Matching for Graph Generation." *arXiv preprint arXiv:2406.04843* (2024).
+
+Vignac, Clement, et al. "DiGress: Discrete Denoising diffusion for graph generation." *The Eleventh International Conference on Learning Representations*.
+
+Kong, Xiangzhe, et al. "Molecule generation by principal subgraph mining and assembling." *Advances in Neural Information Processing Systems* 35 (2022): 2550-2563.
+
+- optional
+
+Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Junction tree variational autoencoder for molecular graph generation." *International conference on machine learning*. PMLR, 2018.
+
+Jin, Wengong, Regina Barzilay, and Tommi Jaakkola. "Hierarchical generation of molecular graphs using structural motifs." *International conference on machine learning*. PMLR, 2020.
+
+**lecture5**
+
+Song, Yuxuan, et al. "Equivariant flow matching with hybrid probability transport for 3d molecule generation." *Advances in Neural Information Processing Systems* 36 (2024).
+
+Xu, Minkai, et al. "Geometric latent diffusion models for 3d molecule generation." *International Conference on Machine Learning*. PMLR, 2023.
+
+Hoogeboom, Emiel, et al. "Equivariant diffusion for molecule generation in 3d." *International conference on machine learning*. PMLR, 2022.
+
+- optional
+
+Song, Yuxuan, et al. "Unified generative modeling of 3d molecules via bayesian flow networks." *ICLR* (2024).
+
+Xu, Minkai, et al. "GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation." *International Conference on Learning Representations*.
+
+**lecture6**
+
+Peng, Xingang, et al. "MolDiff: addressing the atom-bond inconsistency problem in 3D molecule diffusion generation." *Proceedings of the 40th International Conference on Machine Learning*. 2023.
+
+Vignac, Clément, et al. "MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation." *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*. 2023.
+
+Dunn, Ian, and David Ryan Koes. "Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation." *ArXiv* (2024).
+
+- optional
+
+Huang, Han, et al. "Learning joint 2-d and 3-d graph diffusion models for complete molecule generation." *IEEE Transactions on Neural Networks and Learning Systems* (2024).
+
+Jing, Bowen, et al. "Torsional diffusion for molecular conformer generation." *Advances in Neural Information Processing Systems* 35 (2022): 24240-24253.
+
+Ganea, Octavian, et al. "Geomol: Torsional geometric generation of molecular 3d conformer ensembles." *Advances in Neural Information Processing Systems* 34 (2021): 13757-13769.
+
+#### Protein Generation
+
+**lecture7**
+
+Abramson, Josh, et al. "Accurate structure prediction of biomolecular interactions with AlphaFold 3." *Nature* (2024): 1-3.
+
+Krishna, Rohith, et al. "Generalized biomolecular modeling and design with RoseTTAFold All-Atom." *Science* 384.6693 (2024): eadl2528.
+
+Dauparas, Justas, et al. "Robust deep learning–based protein sequence design using ProteinMPNN." *Science* 378.6615 (2022): 49-56.
+
+- optional
+
+Jumper, John, et al. "Highly accurate protein structure prediction with AlphaFold." *nature* 596.7873 (2021): 583-589.
+
+Baek, Minkyung, et al. "Accurate prediction of protein structures and interactions using a three-track neural network." *Science* 373.6557 (2021): 871-876.
+
+Baek, Minkyung, et al. "Efficient and accurate prediction of protein structure using RoseTTAFold2." *BioRxiv* (2023): 2023-05.
+
+Zheng, Zaixiang, et al. "Structure-informed language models are protein designers." *International conference on machine learning*. PMLR, 2023.
+
+**lecture8**
+
+Yim, Jason, et al. "Fast protein backbone generation with SE (3) flow matching." *arXiv preprint arXiv:2310.05297* (2023).
+
+Watson, Joseph L., et al. "De novo design of protein structure and function with RFdiffusion." *Nature* 620.7976 (2023): 1089-1100.
+
+Yim, Jason, et al. "Improved motif-scaffolding with SE (3) flow matching." *ICLR 2024 Workshop on Generative and Experimental Perspectives for Biomolecular Design*.
+
+optional: 
+
+Yim, Jason, et al. "SE (3) diffusion model with application to protein backbone generation." *International Conference on Machine Learning*. PMLR, 2023.
+
+**lecture9**
+
+Huguet, Guillaume, et al. "Sequence-Augmented SE (3)-Flow Matching For Conditional Protein Backbone Generation." *arXiv preprint arXiv:2405.20313* (2024).
+
+Lin, Yeqing, et al. "Out of Many, One: Designing and Scaffolding Proteins at the Scale of the Structural Universe with Genie 2." *arXiv preprint arXiv:2405.15489* (2024).
+
+Ingraham, John B., et al. "Illuminating protein space with a programmable generative model." *Nature* 623.7989 (2023): 1070-1078.
+
+**lecture10**
+
+Shi, Chence, et al. "Protein Sequence and Structure Co-Design with Equivariant Translation." *The Eleventh International Conference on Learning Representations*.
+
+Campbell, Andrew, et al. "Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design." *Forty-first International Conference on Machine Learning*.
 
 ### Guidelines
 
