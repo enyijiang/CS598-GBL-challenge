@@ -200,3 +200,7 @@ todo
 **Final Report**
 
 todo
+
+### **Acknowledgements**
+
+In course structure design, this course is heavily inspired by other seminar-like courses, particularly [UIUC CS598-GenAI System](https://github.com/fanlai0990/CS598). Acknowledgments to [Prof. Fan Lai](https://fanlai.me/) for  generous sharing of his great course.
