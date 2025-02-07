@@ -6,7 +6,7 @@
 
 | **Member (NetID)** | **Role** | **Office Hours** |
 | --- | --- | --- |
-| Ge Liu (geliu) | Instructor | Mon 2:30-3:30 SC3212 |
+| Ge Liu (geliu) | Instructor | Mon 3:00-4:00 SC3212 |
 | Yanru Qu (yanruqu2) | TA | Mon 11-12 SC 3rd floor near elevator |
 
 **Canvas**: https://canvas.illinois.edu/courses/56424
