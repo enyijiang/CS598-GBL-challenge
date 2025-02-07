@@ -326,6 +326,90 @@ Shi, Chence, et al. "Protein Sequence and Structure Co-Design with Equivariant T
 
 Campbell, Andrew, et al. "Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design." *Forty-first International Conference on Machine Learning*.
 
+optional:
+
+Lisanza, Sidney Lyayuga, et al. "Joint generation of protein sequence and structure with RoseTTAFold sequence space diffusion." bioRxiv (2023): 2023-05.
+
+Zhang, Zaixi, et al. "Full-atom protein pocket design via iterative refinement." Advances in Neural Information Processing Systems 36 (2023): 16816-16836.
+
+Anand, Namrata, and Tudor Achim. "Protein structure and sequence generation with equivariant denoising diffusion probabilistic models." arXiv preprint arXiv:2205.15019 (2022).
+
+#### Complex-based functional Design Generation
+
+**lecture11**
+
+Lin, Haitao, et al. "PPFLOW: Target-Aware Peptide Design with Torsional Flow Matching." Forty-first International Conference on Machine Learning.
+
+Li, Jiahan, et al. "Full-Atom Peptide Design based on Multi-modal Flow Matching." Forty-first International Conference on Machine Learning.
+
+Li, Jiahan, et al. "Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension." ICLR (2025).
+
+**lecture12**
+
+ZHANG, ZAIXI, Marinka Zitnik, and Qi Liu. "Generalized Protein Pocket Generation with Prior-Informed Flow Matching." The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+
+Guan, Jiaqi, et al. "3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction." The Eleventh International Conference on Learning Representations.
+
+Peng, Xingang, et al. "Pocket2mol: Efficient molecular sampling based on 3d protein pockets." International Conference on Machine Learning. PMLR, 2022.
+
+optional:
+
+Luo, Shitong, et al. "A 3D generative model for structure-based drug design." Advances in Neural Information Processing Systems 34 (2021): 6229-6239.
+
+Qu, Yanru, et al. "MolCRAFT: Structure-Based Drug Design in Continuous Parameter Space." Forty-first International Conference on Machine Learning.
+
+Jiang, Yuanyuan, et al. "Pocketflow is a data-and-knowledge-driven structure-based molecular generative model." Nature Machine Intelligence 6.3 (2024): 326-337.
+
+ZHANG, ZAIXI, Mengdi Wang, and Qi Liu. "FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling." The Thirty-eighth Annual Conference on Neural Information Processing Systems.
+
+Peng, Xingang, et al. "Decipher Fundamental Atomic Interactions to Unify Generative Molecular Docking and Design." bioRxiv (2024): 2024-10.
+
+**lecture13**
+
+Stark, Hannes, et al. "Harmonic Self-Conditioned Flow Matching for joint Multi-Ligand Docking and Binding Site Design." Forty-first International Conference on Machine Learning.
+
+Corso, Gabriele, et al. "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking." The Eleventh International Conference on Learning Representations.
+
+Stärk, Hannes, et al. "Equibind: Geometric deep learning for drug binding structure prediction." International conference on machine learning. PMLR, 2022.
+
+optional:
+
+Lu, Wei, et al. "Tankbind: Trigonometry-aware neural networks for drug-protein binding structure prediction." Advances in neural information processing systems 35 (2022): 7236-7249.
+
+**lecture14**
+
+Kong, Xiangzhe, Wenbing Huang, and Yang Liu. "End-to-End Full-Atom Antibody Design." International Conference on Machine Learning. PMLR, 2023.
+
+Kong, Xiangzhe, Wenbing Huang, and Yang Liu. "Conditional Antibody Design as 3D Equivariant Graph Translation." The Eleventh International Conference on Learning Representations.
+
+Jin, Wengong, et al. "Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design." International Conference on Learning Representations.
+
+optional:
+
+Luo, Shitong, et al. "Antigen-specific antibody design and optimization with diffusion-based generative models for protein structures." Advances in Neural Information Processing Systems 35 (2022): 9754-9767.
+
+Wang, Zichen, et al. "Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization." arXiv preprint arXiv:2410.15040 (2024).
+
+#### RLHF / DPO / Guidance
+
+**lecture15**
+
+Park, Ryan, et al. "Improving Inverse Folding for Peptide Design with Diversity-regularized Direct Preference Optimization." arXiv preprint arXiv:2410.19471 (2024).
+
+Wang, Chenyu, et al. "Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design." NeurIPS 2024 Workshop on AI for New Drug Modalities.
+
+Zhou, Xiangxin, et al. "Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization." arXiv preprint arXiv:2403.16576 (2024).
+
+optional:
+
+DPO blog: https://pakhapoomsarapat.medium.com/forget-rlhf-because-dpo-is-what-you-actually-need-f10ce82c9b95
+
+Ren, Allen Z., et al. "Diffusion Policy Policy Optimization." CoRL 2024 Workshop on Mastering Robot Manipulation in a World of Abundant Data.
+
+Dong, Hanze, et al. "RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment." Transactions on Machine Learning Research.
+
+Rafailov, Rafael, et al. "Direct preference optimization: Your language model is secretly a reward model." Advances in Neural Information Processing Systems 36 (2024).
+
 ### Guidelines
 
 **Presentation & Slides**
