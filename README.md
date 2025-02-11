@@ -98,11 +98,11 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
 |  | **Paper-reading lectures begin** |  |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
-| Feb 17 | lecture 1: protein |  |  |  |
-| Feb 19 | lecture 2: protein & beyond |  |  |  |
-| Feb 24 | lecture 3: discrete generation |  |  |  |
+| Feb 17 | lecture 1: protein | Kerui Chen, Wei Xia, Tao Feng |  |  |
+| Feb 19 | lecture 2: protein & beyond | Emmanuel Buabeng, Diya Yunus, Kriti Mathur |  |  |
+| Feb 24 | lecture 3: discrete generation | Enyi Jiang, Lily Xie, Huyen Nguyen |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Feb 26 | lecture 4: 2d |  |  |  |
+| Feb 26 | lecture 4: 2d | Xiao Lin, Zhichen Zeng, Zihao Li |  |  |
 | Mar 3 | lecture 5: 3d |  |  |  |
 | Mar 5 | lecture 6: 2d & 3d |  |  | Proposal Due |
 |  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |
@@ -113,17 +113,17 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 19 | No Lecture |  |  |  |
 |  | **Paper-reading Lectures** |  |  |  |
 |  | **Protein Generation** |  |  |  |
-| Mar 24 | lecture 7: folding and inverse folding |  |  |  |
-| Mar 26 | lecture 8: folding and inverse folding |  |  |  |
+| Mar 24 | lecture 7: folding and inverse folding | Jinwei Yao, Yexin Wu, Haofei Yu |  |  |
+| Mar 26 | lecture 8: folding and inverse folding | Hanyang Chen, Hangke Sui, Hesun Chen |  |  |
 | Mar 31 | lecture 9: folding and inverse folding |  |  |  |
 | Apr 2 | lecture 10: co-design |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
 | Apr 7 | lecture 11: peptide design |  |  |  |
-| Apr 9 | lecture 12: structure-based drug design |  |  |  |
+| Apr 9 | lecture 12: structure-based drug design | John Wu, Siddhartha Laghuverapu, Jathurshan Pradeepkumar |  |  |
 | Apr 14 | lecture 13: docking |  |  |  |
 | Apr 16 | lecture 14: antibody design |  |  |  |
 |  | **RLHF/DPO/Guidance** |  |  |  |
-| Apr 21 | lecture 15 |  |  |  |
+| Apr 21 | lecture 15 | Ziwen Wang, Maohong Liao, Jiajun Fan |  |  |
 | Apr 23 |  |  |  | Remote, DLL for challenge submission |
 | Apr 28 | No Lecture / Work on Final Presentation |  |  |  |
 | Apr 30 | No Lecture / Work on Final Presentation |  |  |  |
