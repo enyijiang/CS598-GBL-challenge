@@ -475,6 +475,32 @@ Contribution: [Score: 1-5] (Does the paper make a meaningful contribution to the
 | 2 | Limited confidence – The reviewer is not very familiar with the topic and may have misunderstood some aspects. Additional expert opinions are needed. |
 | 1 | Not confident – The reviewer does not feel qualified to assess the paper. They are unsure if their judgment is correct and strongly recommend additional expert input. |
 
+**Rebuttal**
+
+The rebuttal phase provides authors with an opportunity to clarify misunderstandings, address reviewer concerns, and strengthen their paper’s positioning. Below are key guidelines to ensure an effective response:
+
+- Address Key Concerns First
+Focus on the most critical points raised by the reviewers, such as concerns about methodology, experimental validity, and novelty.
+Prioritize addressing low scores in soundness, contribution, or presentation, as these impact acceptance chances the most.
+
+- Be Clear, Concise, and Professional
+Stick to the facts: Provide clear, well-structured responses rather than lengthy justifications.
+Maintain a professional tone: Avoid defensive language. Acknowledge valid points and explain improvements or clarifications.
+
+- Provide Additional Evidence (If Possible)
+If a reviewer questions experimental validity, clarify the setup and assumptions.
+If applicable, include new results or brief additional analysis (e.g., ablation studies, comparisons with missing baselines).
+If a misunderstanding occurred, restate your approach clearly and provide citations if necessary.
+
+- Organize Responses for Readability
+Summarize key points before responding to each review.
+Use clear formatting, such as bullet points or bolded keywords, to make the response easy to follow.
+Address each reviewer separately, referencing their comments explicitly (e.g., Reviewer 2 questioned the experimental setup...).
+
+- Do Not Introduce Major Changes
+The rebuttal is for clarifications and justifications, not for significant changes to the method or experiments.
+If major revisions are needed, acknowledge them and indicate how they will be addressed in a future version.
+
 **Experiment Report**
 
 todo
