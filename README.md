@@ -414,15 +414,66 @@ Rafailov, Rafael, et al. "Direct preference optimization: Your language model is
 
 **Presentation & Slides**
 
-todo
+- 40-45 min presentation, at least 20 pages
+- cover the content of required papers (paper above **optional**)
+- be ready to answer questions
+- you are encouraged to read some of those optional readings but not required
 
 **Pre-class Questions**
 
-todo
+- every group should submit at least 1 question or idea before class
 
-**Review & Rebuttal**
+**Review**
 
-todo
+Review template (reference from ICLR 2025):
+
+- Summary
+[Provide a brief summary of the paper, including the main problem being addressed, key contributions, and proposed methods.]
+
+- Evaluation Scores (1: poor, 2: weak, 3: fair, 4: good, 5: excellent)
+Soundness: [Score: 1-5] (Does the paper provide a sound and well-supported argument?)
+Presentation: [Score: 1-5] (Is the paper clearly written and well-structured?)
+Contribution: [Score: 1-5] (Does the paper make a meaningful contribution to the field?)
+
+- Strengths
+[List the key strengths of the paper. Be specific about the aspects that are well-executed, such as novelty, clarity, experimental design, or real-world applicability.]
+
+- Weaknesses
+[Identify limitations or areas where the paper could be improved. Be constructive and suggest ways to address the issues.]
+
+- Questions
+[Pose specific questions for clarification and provide constructive suggestions for improvement.]
+
+- Ethical Considerations
+ Ethics review needed
+ No ethics review needed
+[Comment on potential ethical concerns, such as bias, data privacy, or misuse of the method.]
+
+- Final Recommendation
+
+    - Rating: [Score: 1-10] (How strong is this paper in its current form?)
+    - Confidence Level: [Score: 1-5] (How confident are you in your assessment?)
+
+| rating | meaning |
+| --- | --- |
+| 10 | Strong accept (Top 5% of ICLR submissions, a must-accept) |
+| 9 | Clear accept (Excellent work, high confidence in acceptance) |
+| 8 | Accept (Solid contribution, well-executed research) |
+| 7 | Weak accept (Good paper but with some minor issues) |
+| 6 | Marginally above the acceptance threshold (Could be accepted, but not strong) |
+| 5 | Marginally below the acceptance threshold (Has merit but concerns remain) |
+| 4 | Weak reject (Not strong enough for ICLR, requires major improvements) |
+| 3 | Reject (Significant issues, not suitable for ICLR in its current form) |
+| 2 | Strong reject (Serious flaws, major revisions needed before resubmission) |
+| 1 | Trivial/invalid submission (Should not have been submitted in its current state) |
+
+| confidence level | meaning |
+| --- | --- |
+| 5 | Very confident – The reviewer is an expert in the topic and fully understands the paper. It is highly unlikely that they missed something important. |
+| 4 | Confident – The reviewer is familiar with the topic and reasonably certain about their assessment. There is a small chance they missed something. |
+| 3 | Moderately confident – The reviewer understands the general ideas but is not deeply familiar with all technical details. Some aspects may require further verification. |
+| 2 | Limited confidence – The reviewer is not very familiar with the topic and may have misunderstood some aspects. Additional expert opinions are needed. |
+| 1 | Not confident – The reviewer does not feel qualified to assess the paper. They are unsure if their judgment is correct and strongly recommend additional expert input. |
 
 **Experiment Report**
 
