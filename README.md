@@ -103,8 +103,8 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 24 | lecture 3: discrete generation | Enyi Jiang, Lily Xie, Huyen Nguyen |  |  |
 |  | **Molecule Generation** |  |  |  |
 | Feb 26 | lecture 4: 2d | Xiao Lin, Zhichen Zeng, Zihao Li |  |  |
-| Mar 3 | lecture 5: 3d |  |  |  |
-| Mar 5 | lecture 6: 2d & 3d |  |  | Proposal Due |
+| Mar 3 | lecture 5: 3d | Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur |  |  |
+| Mar 5 | lecture 6: 2d & 3d | Jingjie He, Chenhao Xu, Boyang Sun |  | Proposal Due |
 |  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |
 | Mar 10 |  |  |  |  |
 | Mar 12 |  |  |  |  |
