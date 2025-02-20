@@ -100,9 +100,9 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 |  | **Language Model in Biomedicine** |  |  |  |
 | Feb 17 | lecture 1: protein | Kerui Chen, Wei Xia, Tao Feng | Jinwei Yao, Yexin Wu, Haofei Yu |  |
 | Feb 19 | lecture 2: protein & beyond | Emmanuel Buabeng, Diya Yunus, Kriti Mathur | Xiao Lin, Zhichen Zeng, Zihao Li |  |
-| Feb 24 | lecture 3: discrete generation | Enyi Jiang, Lily Xie, Huyen Nguyen | G2: Kerui Chen, Wei Xia, Tao Feng |  |
+| Feb 24 | lecture 3: discrete generation | G10: Enyi Jiang, Lily Xie, Huyen Nguyen | G2: Kerui Chen, Wei Xia, Tao Feng |  |
 |  | **Molecule Generation** |  |  |  |
-| Feb 26 | lecture 4: 2d | Xiao Lin, Zhichen Zeng, Zihao Li | G11: Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur |  |
+| Feb 26 | lecture 4: 2d | G3: Xiao Lin, Zhichen Zeng, Zihao Li | G11: Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur |  |
 | Mar 3 | lecture 5: 3d | Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur | G10: Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur |  |
 | Mar 5 | lecture 6: 2d & 3d | Jingjie He, Chenhao Xu, Boyang Sun | G6: Emmanuel Buabeng, Diya Yunus, Kriti Mathur | Proposal Due |
 |  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |
