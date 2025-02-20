@@ -115,11 +115,11 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 |  | **Protein Generation** |  |  |  |
 | Mar 24 | lecture 7: folding and inverse folding | Jinwei Yao, Yexin Wu, Haofei Yu | G4: John Wu, Siddhartha Laghuverapu, Jathurshan Pradeepkumar |  |
 | Mar 26 | lecture 8: folding and inverse folding | Hanyang Chen, Hangke Sui, Hesun Chen | G8: Ziwen Wang, Maohong Liao, Jiajun Fan |  |
-| Mar 31 | lecture 9: folding and inverse folding |  |  |  |
+| Mar 31 | lecture 9: folding and inverse folding | G9: Eleanor Wedell, Yasamin Tabatabaee, James Willson | G5: Hanyang Chen, Hangke Sui, Hesun Chen |  |
 | Apr 2 | lecture 10: co-design |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
 | Apr 7 | lecture 11: peptide design |  |  |  |
-| Apr 9 | lecture 12: structure-based drug design | John Wu, Siddhartha Laghuverapu, Jathurshan Pradeepkumar |  |  |
+| Apr 9 | lecture 12: structure-based drug design | John Wu, Siddhartha Laghuverapu, Jathurshan Pradeepkumar | G7: Jingjie He, Chenhao Xu, Boyang Sun |  |
 | Apr 14 | lecture 13: docking |  |  |  |
 | Apr 16 | lecture 14: antibody design |  |  |  |
 |  | **RLHF/DPO/Guidance** |  |  |  |
