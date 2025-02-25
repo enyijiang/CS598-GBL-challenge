@@ -96,35 +96,32 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Feb 5 | Geometric DL & Equivariance |  |  |  |
 | Feb 10 | Seq Model & Discrete Generation |  |  |  |
 | Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
-|  | **Paper-reading lectures begin** |  |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
-| Feb 17 | lecture 1: protein | Kerui Chen, Wei Xia, Tao Feng | Jinwei Yao, Yexin Wu, Haofei Yu |  |
-| Feb 19 | lecture 2: protein & beyond | Emmanuel Buabeng, Diya Yunus, Kriti Mathur | Xiao Lin, Zhichen Zeng, Zihao Li |  |
-| Feb 24 | lecture 3: discrete generation | G10: Enyi Jiang, Lily Xie, Huyen Nguyen | G2: Kerui Chen, Wei Xia, Tao Feng |  |
+| Feb 17 | lecture 1: protein | G2 | G1 |  |
+| Feb 19 | lecture 2: protein & beyond | G6 | G3 |  |
+| Feb 24 | lecture 3: discrete generation | G10 | G2 |  |
+| Feb 26 | **Discussion for L1-L3** |  |  |  |
 |  | **Molecule Generation** |  |  |  |
-| Feb 26 | lecture 4: 2d | G3: Xiao Lin, Zhichen Zeng, Zihao Li | G11: Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur |  |
-| Mar 3 | lecture 5: 3d | Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur | G10: Reihaneh Jahedan, Akash Arunabharathi, Ishaan Mathur |  |
-| Mar 5 | lecture 6: 2d & 3d | Jingjie He, Chenhao Xu, Boyang Sun | G6: Emmanuel Buabeng, Diya Yunus, Kriti Mathur | Proposal Due |
-|  | **Mid-term Presentation & Hands on challenge introduction** |  |  |  |
-| Mar 10 |  |  |  |  |
-| Mar 12 |  |  |  |  |
+| Mar 3 | lecture 4: 2d | G3 | G11 |  |
+| Mar 5 | lecture 5: 3d | G11 | G10 |  |
+| Mar 10 | lecture 6: 2d & 3d | G7 | G6 |  |
+| Mar 12 | **Discussion on Small molecule** |  |  | **Proposal Due mar 16** |
 |  | **Spring Break** |  |  |  |
 | Mar 17 | No Lecture |  |  |  |
 | Mar 19 | No Lecture |  |  |  |
-|  | **Paper-reading Lectures** |  |  |  |
-|  | **Protein Generation** |  |  |  |
-| Mar 24 | lecture 7: folding and inverse folding | Jinwei Yao, Yexin Wu, Haofei Yu | G4: John Wu, Siddhartha Laghuverapu, Jathurshan Pradeepkumar |  |
-| Mar 26 | lecture 8: folding and inverse folding | Hanyang Chen, Hangke Sui, Hesun Chen | G8: Ziwen Wang, Maohong Liao, Jiajun Fan |  |
-| Mar 31 | lecture 9: folding and inverse folding | G9: Eleanor Wedell, Yasamin Tabatabaee, James Willson | G5: Hanyang Chen, Hangke Sui, Hesun Chen |  |
-| Apr 2 | lecture 10: co-design |  |  |  |
+| Mar 24 | **Mid term presentation** |  |  |  |
+| Mar 26 | **Protein design primer & Hands on challenge overview** |  |  |  |
+|  | **Protein** |  |  |  |
+| Mar 31 | lecture 7: folding inverse folding | G1 | G4 |  |
+| Apr 2 | lecture 8: structure gen | G5 | G8 |  |
+| Apr 7 | lecture 9: structure gen & co-design | G9 | G5 |  |
+| Apr 9 | **Discussion on Protein design** |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
-| Apr 7 | lecture 11: peptide design |  |  |  |
-| Apr 9 | lecture 12: structure-based drug design | John Wu, Siddhartha Laghuverapu, Jathurshan Pradeepkumar | G7: Jingjie He, Chenhao Xu, Boyang Sun |  |
-| Apr 14 | lecture 13: docking |  |  |  |
-| Apr 16 | lecture 14: antibody design |  |  |  |
+| Apr 14 | lecture 10: peptide and  antibody design |  |  |  |
+| Apr 16 | lecture 11: docking |  |  |  |
+| Apr 21 | lecture 12: structure-based drug design | G4 | G7 | TA host, Instructor remote |
 |  | **RLHF/DPO/Guidance** |  |  |  |
-| Apr 21 | lecture 15 | Ziwen Wang, Maohong Liao, Jiajun Fan | G9: Eleanor Wedell, Yasamin Tabatabaee, James Willson |  |
-| Apr 23 |  |  |  | Remote, DLL for challenge submission |
+| Apr 23 | lecture 13 | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
 | Apr 28 | No Lecture / Work on Final Presentation |  |  |  |
 | Apr 30 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
