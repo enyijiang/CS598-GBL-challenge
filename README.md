@@ -112,13 +112,13 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 24 | **Mid term presentation** |  |  |  |
 | Mar 26 | **Protein design primer & Hands on challenge overview** |  |  |  |
 |  | **Protein** |  |  |  |
-| Mar 31 | lecture 7: folding inverse folding | G1 | G4 |  |
-| Apr 2 | lecture 8: structure gen | G5 | G8 |  |
-| Apr 7 | lecture 9: structure gen & co-design | G9 | G5 |  |
-| Apr 9 | **Discussion on Protein design** |  |  |  |
+| Mar 31 | Guest Lecture on MSA | | | |
+| Apr 2 | lecture 7: folding inverse folding | G1 | G4 |  |
+| Apr 7 | lecture 8: structure gen | G5 | G8 |  |
+| Apr 9 | lecture 9: structure gen & co-design | G9 | G5 |  |
+| Apr 14 | **Discussion on Protein design** |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
-| Apr 14 | lecture 10: peptide and  antibody design |  |  |  |
-| Apr 16 | lecture 11: docking |  |  |  |
+| Apr 16 | lecture 10: peptide and  antibody design |  |  |  |
 | Apr 21 | lecture 12: structure-based drug design | G4 | G7 | TA host, Instructor remote |
 |  | **RLHF/DPO/Guidance** |  |  |  |
 | Apr 23 | lecture 13 | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
