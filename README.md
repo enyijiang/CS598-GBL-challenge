@@ -33,8 +33,8 @@ In this course, we will discuss recent advances in generative AI for biomedicine
 **Structure**: This will be a graduate-level course in seminar format.
 
 - 6 instructor lectures: we will first review the biology & generative model basics. See schedule
-- 1 project brain-storm session
-- 15 paper-reading lectures: we will select 15 research sub-topics and reading lists for students to read, present, and discuss, covering the following topics:
+- 1 project brainstorming session
+- 13 paper-reading lectures: we will select 13 research sub-topics and reading lists for students to read, present, and discuss, covering the following topics:
     - Language models for biomedicine
     - Generative models for chemical molecules
     - Generative models for protein folding and design
@@ -66,7 +66,7 @@ In this course, we will discuss recent advances in generative AI for biomedicine
 
 **Hands-on Experiments**
 
-We’ll release 1-3 benchmark challenges during the semester. Each group should choose 1 challenge and use its codebase to generate results and evaluation metrics, and finish a short report like the experiment section in a paper. The report should cover experiment settings and results analysis. Each group should submit the experiment reports 2 weeks **before the final presentation (Apr 23).**
+We’ll release 2 benchmark challenges during the semester. Each group should choose 1 challenge and use its codebase to generate results and evaluation metrics, and finish a short report like the experiment section in a paper. The report should cover experiment settings and results analysis. Each group should submit the experiment reports 2 weeks **before the final presentation (Apr 23).**
 
 **Final Project**
 
@@ -90,11 +90,11 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | --- | --- | --- | --- | --- |
 |  | **Course Introduction** |  |  |  |
 | Jan 22 | Intro + Biology101 | Prof. Liu |  |  |
-| Jan 27 | Diffusion |  |  |  |
-| Jan 29 | Flow Models |  |  |  |
-| Feb 3 | VAE  |  |  | Group Membership & Topic Preference Due |
-| Feb 5 | Geometric DL & Equivariance |  |  |  |
-| Feb 10 | Seq Model & Discrete Generation |  |  |  |
+| Jan 27 | Diffusion | Prof. Liu  |  |  |
+| Jan 29 | Flow Models |  Prof. Liu |  |  |
+| Feb 3 | VAE  | Prof. Liu  |  | Group Membership & Topic Preference Due |
+| Feb 5 | Geometric DL & Equivariance |  Prof. Liu |  |  |
+| Feb 10 | Seq Model & Discrete Generation |  Prof. Liu |  |  |
 | Feb 12 | No Lecture / Brain storm for project proposal and prepare presentation |  |  |  |
 |  | **Language Model in Biomedicine** |  |  |  |
 | Feb 17 | lecture 1: protein | G2 | G1 |  |
@@ -110,7 +110,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 17 | No Lecture |  |  |  |
 | Mar 19 | No Lecture |  |  |  |
 | Mar 24 | **Mid term presentation** |  |  |  |
-| Mar 26 | **Protein design primer & Hands on challenge overview** |  |  |  |
+| Mar 26 | **Protein design primer & Hands on challenge overview** | Prof. Liu|  |  |
 |  | **Protein** |  |  |  |
 | Mar 31 | Guest Lecture on MSA | | |by Prof. [Tandy Warnow](https://tandy.cs.illinois.edu/) |
 | Apr 2 | lecture 7: folding inverse folding | G1 | G4 |  |
