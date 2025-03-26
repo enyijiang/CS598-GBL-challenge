@@ -112,7 +112,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 24 | **Mid term presentation** |  |  |  |
 | Mar 26 | **Protein design primer & Hands on challenge overview** |  |  |  |
 |  | **Protein** |  |  |  |
-| Mar 31 | Guest Lecture on MSA | | | |
+| Mar 31 | Guest Lecture on MSA | | |by Prof. [Tandy Warnow](https://tandy.cs.illinois.edu/) |
 | Apr 2 | lecture 7: folding inverse folding | G1 | G4 |  |
 | Apr 7 | lecture 8: structure gen | G5 | G8 |  |
 | Apr 9 | lecture 9: structure gen & co-design | G9 | G5 |  |
