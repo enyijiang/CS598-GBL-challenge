@@ -12,13 +12,13 @@
 **Canvas**: https://canvas.illinois.edu/courses/56424
 
 - For homework/report submission
-- For open discussion
+We will use Slack for open discussions. An invitation is sent to registered students.
 
 **Github (Course website)**: https://github.com/gelab-uiuc/CS598-GBL
 
-- Covering most of the course information, including schedule and reading lists
+- Covering most of the course information, including the schedule and reading lists
 
-**Note**: Please use **Canvas Discussion** to submit your course-related questions. Please **DO NOT** email the TA or Prof. Liu directly, unless the matter is private or only concerns yourself.
+**Note**: Please use **Canvas Discussion** and **Slack channel** to submit your course-related questions. Please **DO NOT** email the TA or Prof. Liu directly, unless the matter is private or only concerns you.
 
 ### Course Description
 
