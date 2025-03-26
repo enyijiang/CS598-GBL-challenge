@@ -226,11 +226,11 @@ If major revisions are needed, acknowledge them and indicate how they will be ad
 
 **Experiment Report**
 
-todo
+See requirements in Canvas 
 
 **Final Report**
 
-todo
+See requirements in Canvas 
 
 ### **Acknowledgements**
 
