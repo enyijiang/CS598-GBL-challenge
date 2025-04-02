@@ -119,9 +119,9 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Apr 14 | **Discussion on Protein design** |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
 | Apr 16 | lecture 10: peptide and  antibody design |  |  |  |
-| Apr 21 | lecture 12: structure-based drug design | G4 | G7 | TA host, Instructor remote |
+| Apr 21 | lecture 11: structure-based drug design | G4 | G7 | TA host, Instructor remote |
 |  | **RLHF/DPO/Guidance** |  |  |  |
-| Apr 23 | lecture 13 | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
+| Apr 23 | lecture 12 | G8 | G9 | TA host, Instructor remote, DLL for challenge submission |
 | Apr 28 | No Lecture / Work on Final Presentation |  |  |  |
 | Apr 30 | No Lecture / Work on Final Presentation |  |  |  |
 |  | **Final Presentation** |  |  |  |
