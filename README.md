@@ -115,7 +115,7 @@ Note: This is an evolving list. For each topic, the presenter should cover 2-3 r
 | Mar 31 | Guest Lecture on MSA | | |by Prof. [Tandy Warnow](https://tandy.cs.illinois.edu/) |
 | Apr 2 | lecture 7: folding inverse folding | G1 | G4 |  |
 | Apr 7 | lecture 8: structure gen | G5 | G8 |  |
-| Apr 9 | lecture 9: structure gen & co-design | G9 | G5 |  |
+| Apr 9 | lecture 9: co-design | G9 | G5 |  |
 | Apr 14 | **Discussion on Protein design** |  |  |  |
 |  | **Complex-based Generation** |  |  |  |
 | Apr 16 | lecture 10: peptide and  antibody design |  |  |  |
