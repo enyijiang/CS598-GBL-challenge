@@ -179,7 +179,7 @@ optional:
 
 Yim, Jason, et al. "SE (3) diffusion model with application to protein backbone generation." *International Conference on Machine Learning*. PMLR, 2023.
 
-**lecture9**
+**optional, previous lecture9**
 
 Huguet, Guillaume, et al. "Sequence-Augmented SE (3)-Flow Matching For Conditional Protein Backbone Generation." *arXiv preprint arXiv:2405.20313* (2024).
 
@@ -187,7 +187,7 @@ Lin, Yeqing, et al. "Out of Many, One: Designing and Scaffolding Proteins at the
 
 Ingraham, John B., et al. "Illuminating protein space with a programmable generative model." *Nature* 623.7989 (2023): 1070-1078.
 
-**lecture10**
+**lecture9**
 
 Shi, Chence, et al. "Protein Sequence and Structure Co-Design with Equivariant Translation." *The Eleventh International Conference on Learning Representations*.
 
@@ -203,7 +203,7 @@ Anand, Namrata, and Tudor Achim. "Protein structure and sequence generation with
 
 #### Complex-based functional Design Generation
 
-**lecture11**
+**lecture10**
 
 Lin, Haitao, et al. "PPFLOW: Target-Aware Peptide Design with Torsional Flow Matching." Forty-first International Conference on Machine Learning.
 
@@ -211,7 +211,7 @@ Li, Jiahan, et al. "Full-Atom Peptide Design based on Multi-modal Flow Matching.
 
 Li, Jiahan, et al. "Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension." ICLR (2025).
 
-**lecture12**
+**lecture11**
 
 ZHANG, ZAIXI, Marinka Zitnik, and Qi Liu. "Generalized Protein Pocket Generation with Prior-Informed Flow Matching." The Thirty-eighth Annual Conference on Neural Information Processing Systems.
 
@@ -231,7 +231,7 @@ ZHANG, ZAIXI, Mengdi Wang, and Qi Liu. "FlexSBDD: Structure-Based Drug Design wi
 
 Peng, Xingang, et al. "Decipher Fundamental Atomic Interactions to Unify Generative Molecular Docking and Design." bioRxiv (2024): 2024-10.
 
-**lecture13**
+**optional, previous lecture13**
 
 Stark, Hannes, et al. "Harmonic Self-Conditioned Flow Matching for joint Multi-Ligand Docking and Binding Site Design." Forty-first International Conference on Machine Learning.
 
@@ -243,7 +243,7 @@ optional:
 
 Lu, Wei, et al. "Tankbind: Trigonometry-aware neural networks for drug-protein binding structure prediction." Advances in neural information processing systems 35 (2022): 7236-7249.
 
-**lecture14**
+**optional, previous lecture14**
 
 Kong, Xiangzhe, Wenbing Huang, and Yang Liu. "End-to-End Full-Atom Antibody Design." International Conference on Machine Learning. PMLR, 2023.
 
@@ -259,7 +259,7 @@ Wang, Zichen, et al. "Retrieval Augmented Diffusion Model for Structure-informed
 
 #### RLHF / DPO / Guidance
 
-**lecture15**
+**lecture12**
 
 Park, Ryan, et al. "Improving Inverse Folding for Peptide Design with Diversity-regularized Direct Preference Optimization." arXiv preprint arXiv:2410.19471 (2024).
 
