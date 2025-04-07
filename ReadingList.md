@@ -189,6 +189,8 @@ Ingraham, John B., et al. "Illuminating protein space with a programmable genera
 
 **lecture9**
 
+Huguet, Guillaume, et al. "Sequence-Augmented SE (3)-Flow Matching For Conditional Protein Backbone Generation."
+
 Shi, Chence, et al. "Protein Sequence and Structure Co-Design with Equivariant Translation." *The Eleventh International Conference on Learning Representations*.
 
 Campbell, Andrew, et al. "Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design." *Forty-first International Conference on Machine Learning*.
