@@ -1,0 +1,3 @@
+[submodule "molecule/molecule/FlowMol"]
+	path = molecule/molecule/FlowMol
+	url = https://github.com/Dunni3/FlowMol/
